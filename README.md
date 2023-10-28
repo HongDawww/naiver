@@ -27,7 +27,7 @@
 >
 >  ![notice](https://github.com/HongDawww/naiver/assets/142575028/f38b3937-55e2-4f08-ae4b-983a1d5a3789)
  
- 💜 추가 된 기능들 💜 (23.10.18)
+ 💜 추가 된 기능들 💜 (23.10.28)
 - 검색어 입력란 placeholder 색상 변경
 - 검색어 입력란 focus 시 placeholder 생성
 - 검색어 입력란 focus 시 구분선 생성
