@@ -27,6 +27,10 @@
 >
 >  ![notice](https://github.com/HongDawww/naiver/assets/142575028/f38b3937-55e2-4f08-ae4b-983a1d5a3789)
  
- 
-
+ 💜 추가 된 기능들 💜 (23.10.18)
+- 검색어 입력란 placeholder 색상 변경
+- 검색어 입력란 focus 시 placeholder 생성
+- 검색어 입력란 focus 시 구분선 생성
+- 검색어를 입력하세요 < 입력란 클릭 시 생성 되도록 변경
+- keyboard hover시 색상 어둡게 변경 
  
