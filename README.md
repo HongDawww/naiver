@@ -26,6 +26,11 @@
 > notice logo
 >
 >  ![notice](https://github.com/HongDawww/naiver/assets/142575028/f38b3937-55e2-4f08-ae4b-983a1d5a3789)
+>
+# main
+🤞 메뉴바 추가
+>
+ ![image](https://github.com/HongDawww/naiver/assets/142575028/dddd9c96-748d-46f6-af0f-fc8d6deadbf3)
  
  💜 추가 된 기능들 💜 (23.10.28)
 - 검색어 입력란 placeholder 색상 변경
@@ -44,4 +49,5 @@
  6. 이미지 파일은 한 파일에 모조리 있었는데 해당 위치에 있는 이미지를 지정하였다 이 부분은 생각보다 어려웠다
  7. 이러한 방식은 스프라이트 시트(Sprite Sheet) 라고 한다는 것을 알게 됐다.
  8. 스프라이트 시트 이유는 여러 이미지 파일을 여러 번 다운로드하는 대신, 하나의 이미지 파일로 저장하여 로딩속도를 개선할 수 있다고 한다 !!
+ 9. 메뉴는 li 태그로 만들었는데 li 의 요소들마다 적용하려고 하니 nth-child는 요소 안에 다른 태그들 마저 적용이 되었다 li안에 div에도 적용되는 현상 때문에 구글링을 해보니 nth-of-type 를 사용하면  li만 순서로 적용할 수 있었음!!
 
