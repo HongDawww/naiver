@@ -410,7 +410,6 @@ section[id^=main] {
 	justify-content: flex-start;
 	line-height: 23px;
 	margin-bottom: 17px;
-
 }
 #main-newstand-grid {
 	display: grid;
