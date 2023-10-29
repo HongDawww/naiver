@@ -403,7 +403,7 @@ section[id^=main] {
 #main-login {
 	height: 164px;
 	padding: 21px 20px 18px;
-	font-size: 1.1rem;
+	font-size: 0.9rem;
 	display: flex;
 	flex-flow: column;
 }
@@ -411,7 +411,18 @@ section[id^=main] {
 	line-height: 20px;
 }
 #main-login > div:last-of-type {
-	font-size: 1.1rem;
+	font-size: 0.8rem;
+}
+#main-login > div:last-of-type a {
+	text-decoration: none;
+	color: var(--color_caption2);
+	letter-spacing: -0.4px;
+}
+#main-login > div:last-of-type a:hover {
+	text-decoration: underline;
+}
+#main-login > div:last-of-type a:visited {
+	color: inherit;
 }
 #main-login > div:last-of-type > a:nth-of-type(2)::before
 , #main-login > div:last-of-type > a:nth-of-type(2)::after {
@@ -430,7 +441,10 @@ section[id^=main] {
 	color: white;
 	height: 56px;
 	border-radius: 4px;
+	margin-bottom: 16px;
+	text-decoration: none;
 }
+
 #main-login-button i {
 	background-image: url("./img/NAIVER.png");
     background-size: 80px;
@@ -438,8 +452,8 @@ section[id^=main] {
     width: 218px;
     height: 40px;
     display: inline-block;
-    margin: 4px -130px 0 -39px;
-    vertical-align: top;
+    margin: 4px -130px 2px 14px;
+    vertical-align: -26px;
 }
 #main-right-ad {
 	height: 240px;	
