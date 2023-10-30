@@ -38,6 +38,11 @@
 
 ![naver-login](https://github.com/HongDawww/naiver/assets/142575028/5576ebdd-842e-44f4-83e6-a3ea6629765c)
 ![naver-login2](https://github.com/HongDawww/naiver/assets/142575028/91d6b366-393a-46c5-84dc-eac17239fe06)
+
+# newstand
+4️⃣ 뉴스스탠드
+
+![newstand](https://github.com/HongDawww/naiver/assets/142575028/b7da37ea-e789-4a41-8912-e8143f7aa359)
  
  💜 추가 된 기능들 💜 
  
